@@ -9,4 +9,6 @@ var soundManager = new SoundManager(gameObject);
 And call functions like:
 ```
 soundManager.playSound("somesound");
+or
+soundManager.somesound();
 ```
