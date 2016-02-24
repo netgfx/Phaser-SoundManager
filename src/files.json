@@ -1,0 +1,26 @@
+{
+    "general": [
+
+    ],
+    "sounds": [
+        {
+            "type": "audio",
+            "key": "win",
+            "urls": ["../assets/sounds/win2.mp3"],
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "click",
+            "urls": ["../assets/sounds/button-click.mp3"],
+            "autoDecode": true
+        }
+    ],
+    "meta": {
+        "generated": "1401380327373",
+        "version": "1.0",
+        "app": "Phaser Asset Packer",
+        "url": "http://phaser.io",
+        "copyright": "Photon Storm Ltd. 2014"
+    }
+}
